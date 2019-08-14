@@ -2,7 +2,7 @@
 # TR Edition
 
 ANDROIDJAR="android.jar" # android.jar dosyasının konumu
-APKNAME="org.author.appname" # APK dosyasının ismi
+APKNAME="APP" # APK dosyasının ismi
 PKGNAMEDIR="org/author/appname" # Kaynak kodlarının bulunduğu klasör
 KEYLOCATION="author.keystore" # Keystore dosyasının konumu
 COMPILER="ecj" # Derleyici. ÖR= ecj, javac
