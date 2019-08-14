@@ -16,6 +16,7 @@ created by omerakgoz34
 * Örnek: "# export ANDROID_DATA..." ve "# mkdir -p $ANDROID_DATA..." gibi olacak.
 * Doğru bir şekilde yaptıktan sonra önce CTRL, sonra X'e basın ve ardından Y'e ve ENTER'a basarak dosyayı kayıt edin. Kayıt ettikten sonra bildirim çekmecesinden Termux'un bildirimini bulup EXIT'a basarak uygulamadan çıkış yapın.
 * Ardından Termux'u tekrar açıp "`cd`" komutunu kullanarak tekrar "app_sample" klasörünün içine gelin ve "`sh apk.sh`" yazıp bir boşluk bırakın ve APK'yı imzalamak için oluşturulacak yeni anahtarın şifresini yazın ve ENTER ile APK oluşturma işlemini başlatın. İşlemleri doğru bir şekilde yaptıysanız hata mesajı almadan APK oluşturulacaktır.
+* NOT: bir kez anahtar(keystore) oluşturduktan sonra o anahtarı silmediğiniz sürece aynı şifreyi kullanmanız gerekecek.
 * APK oluştuktan sonra sistem ayarlarından Termux'a depolama izni verin ve ardından Termux'a dönüp "`cp bin/org.author.appname.apk /sdcard/uygulama.apk`" yazarak oluşturduğunuz APK dosyasını dosyalar bölümüne kopyalayın.
 * Artık cihazınızın Dosya Yöneticisi uygulamasına girip uygulama.apk dosyasına basarak uygulamanızı yükleyebilirsiniz.
 
@@ -23,6 +24,7 @@ created by omerakgoz34
 
 * [apk.sh](https://gitlab.com/omerakgoz34/apk-builder-script/raw/master/apk_tr.sh) Script dosyasını istediğiniz gibi modifiye edebilir *ismini, paket adını, dosyaların konumunu vs.* özelleştirebilirsiniz.
 * İsteğinize ve uygulamanıza göre ekstra aşamalar eklyip kendinize göre uyarlayabilirsiniz.
+* Otomatik oluşturulan uygulama imzalama anahtarı(keystore dosyası) yerine başka kendi oluşturduğunuz bir keystore dosyası da kullanabilirsiniz.
 
 ## Bir sorun mu var?
 
