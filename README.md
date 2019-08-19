@@ -5,7 +5,7 @@
 1. Önce **[Termux](https://play.google.com/store/apps/details?id=com.termux)**'u yükleyin.
 2. Yüklendikten sonra Termux'u açın ve ilk kurulumu yapmasını bekleyin. Kurulum bittikten sonra `pkg upgrade` yazarak bütün paketleri güncelleyin.
 3. Sonra `pkg install git aapt ecj dx apksigner nano` ile gerekli paketleri yükleyin.
-4. `git clone https://gitlab.com/omerakgoz34/apk-builder-script.git` ile script'i ve örnek projeyi indirin.
+4. `git clone https://github.com/omerakgoz34/apk-builder-script.git` ile script'i ve örnek projeyi indirin.
 5. `cd apk-builder-script` yazarak projenin içine girin ve `cp apt_tr.sh app_sample/apk.sh` yazarak script dosyasını örnek projenin içine kopyalayın ve `cd app_sample` yazarak örnek projenin içine girin.
 6. `chmod +x apk.sh` yazarak script dosyasını çalıştırılabilir hale getirin.
 7. Script dosyasını çalıştırmadan önce `cd` ile ana klsöre gidin ve `nano /data/data/com.termux/files/usr/bin/dalvikvm` yazarak "dalvikvm"** dosyasını açın. Sonra **"export ANDROID_DATA..."** ve **"mkdir -p $ANDROID_DATA..."** ile başlayan satırların en başına **"#"** işareti koyun. Yazmakta sıkıntı yaşıyorsanız [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) klavye uygulamasını yükleyerek ok tuşları ile daha rahat yazabilirsiniz.
