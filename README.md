@@ -18,12 +18,13 @@
 
 ## **platform.zip(sdk) indirme linkleri:**
 
+* **[Android 10.0](https://dl.google.com/android/repository/platform-29_r04.zip)**
 * **[Android 9.0](https://dl.google.com/android/repository/platform-28_r06.zip)**
-* **[Android 8.1](https://dl-ssl.google.com/android/repository/platform-27_r03.zip)**
-* **[Android 8.0](https://dl-ssl.google.com/android/repository/platform-26_r02.zip)**
-* **[Android 7.1](https://dl-ssl.google.com/android/repository/platform-25_r03.zip)**
-* **[Android 7.0](https://dl-ssl.google.com/android/repository/platform-24_r02.zip)**
-* **[Android 6.0](https://dl-ssl.google.com/android/repository/platform-23_r03.zip)**
+* **[Android 8.1](https://dl.google.com/android/repository/platform-27_r03.zip)**
+* **[Android 8.0](https://dl.google.com/android/repository/platform-26_r02.zip)**
+* **[Android 7.1](https://dl.google.com/android/repository/platform-25_r03.zip)**
+* **[Android 7.0](https://dl.google.com/android/repository/platform-24_r02.zip)**
+* **[Android 6.0](https://dl.google.com/android/repository/platform-23_r03.zip)**
 
 **NOT**:
 APK oluşturabilmek için sadece zip içindeki android.jar dosyası yeterlidir. Tema, font, UI gibi ekstra bileşenleri **`platform.zip`** içerisinden elde edebilirsiniz.
