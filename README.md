@@ -24,7 +24,9 @@
 * **[Android 7.0](https://dl-ssl.google.com/android/repository/platform-24_r02.zip)**
 * **[Android 6.0](https://dl-ssl.google.com/android/repository/platform-23_r03.zip)**
 
-**NOT**: APK oluşturabilmek için sadece zip içindeki android.jar dosyası yeterlidir. Tema, font, UI gibi ekstra bileşenleri **`platform.zip`** içerisinden elde edebilirsiniz.
+**NOT**:
+APK oluşturabilmek için sadece zip içindeki android.jar dosyası yeterlidir. Tema, font, UI gibi ekstra bileşenleri **`platform.zip`** içerisinden elde edebilirsiniz.
+Linux, macOS ve Windows üzerinde de bu yöntemi kullanabilirsiniz. Windows'da yapabilmek için MSYS2 kullanabilirisniz. Ecj yerine de javac kullanabilirsiniz.
 
 ## **Özelleştirme**
 
