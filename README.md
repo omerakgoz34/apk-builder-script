@@ -1,4 +1,4 @@
-# **Android APK Builder Script**
+# **Android APK Builder Script** *(Şu anlık askıda)*
 
 ## **Android üzerinde APK oluşturma:**
 
