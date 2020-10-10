@@ -18,8 +18,9 @@
 
 ## **platform.zip(sdk) indirme linkleri:**
 
-* **[Android 10.0](https://dl.google.com/android/repository/platform-29_r04.zip)**
-* **[Android 9.0](https://dl.google.com/android/repository/platform-28_r06.zip)**
+* **[Android 11](https://dl.google.com/android/repository/platform-30_r03.zip)**
+* **[Android 10](https://dl.google.com/android/repository/platform-29_r04.zip)**
+* **[Android 9](https://dl.google.com/android/repository/platform-28_r06.zip)**
 * **[Android 8.1](https://dl.google.com/android/repository/platform-27_r03.zip)**
 * **[Android 8.0](https://dl.google.com/android/repository/platform-26_r02.zip)**
 * **[Android 7.1](https://dl.google.com/android/repository/platform-25_r03.zip)**
