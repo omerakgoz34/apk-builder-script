@@ -39,4 +39,4 @@ Linux, macOS ve Windows üzerinde de bu yöntemi kullanabilirsiniz. Windows'da y
 
 ## **Bir sorun mu var?**
 
-Bir sorun ile karşılaşırsanız **[SoftDevTR Discord](https://discord.gg/4aVWp5S)** sunucusu üzerinden bana(omerakgoz34) mesaj atabilir, **omerakgoz34@gmail.com** adresine email atabilir veya **[issues](https://github.com/omerakgoz34/apk-builder-script/issues)** bölümünden yeni bir hata bildirimi(issue) açıp sorununuzu bildirebilirsiniz.
+Bir sorun ile karşılaşırsanız **omerakgoz34@gmail.com** adresinden bana eposta atabilir veya **[issues](https://github.com/omerakgoz34/apk-builder-script/issues)** bölümünden yeni bir hata bildirimi(issue) açıp sorununuzu bildirebilirsiniz.
